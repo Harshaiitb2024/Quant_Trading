@@ -1,5 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/yLKHrvX4)
-# 2CentsCapital Quant Task Sheet
+
+# Quant Task Sheet
 
 ## Task 1: Strategy Development and Backtesting
 
@@ -125,8 +125,3 @@ To use a given set of alpha functions to develop new alpha generation strategies
 
 ---
 
-## Submission Guidelines:
-- **Code Repository**: Submit all code, reports, and supporting documents via GitHub Classroom.
-- **Documentation**: Include a README file with instructions on how to run your code, specify dependencies, and detail setup requirements.
-- **Video Walkthrough**: Provide a 10-15 minute video walkthrough explaining your approach, key insights, and strategy development process.
-- **Report**: Submit a report summarizing your strategies, findings, and recommendations tailored for a technical audience.
